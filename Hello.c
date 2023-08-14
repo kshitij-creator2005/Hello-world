@@ -3,4 +3,4 @@ void main()
 {
   print("Hello World...!!!");
 {
-intresting language
+print("c is intresting language")
